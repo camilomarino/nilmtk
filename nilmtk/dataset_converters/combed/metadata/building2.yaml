@@ -9,13 +9,13 @@ elec_meters:
      device_model: EM6400
   3: *floor_total
   4: *floor_total
-  5: &AHU_lh1
+  5: &AHU_lh0
      submeter_of: 0
      device_model: EM6400
-  6: &AHU_lh2
+  6: &AHU_lh1
      submeter_of: 0
      device_model: EM6400
-  7: &AHU_lh3
+  7: &AHU_lh2
      submeter_of: 0
      device_model: EM6400
 

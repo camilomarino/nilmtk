@@ -20,7 +20,7 @@ acad_block_meter_mapping = {'Building Total Mains': {'0': 1},
 
 lecture_block_meter_mapping = {'Building Total Mains': {'0': 1},
                                'Floor Total': {'0': 2, '1': 3, '2': 4},
-                               'AHU': {'1': 5, '2': 6, '3': 7}}
+                               'AHU': {'0': 5, '1': 6, '2': 7}}
 
 overall_dataset_mapping = OrderedDict({'Academic Block': acad_block_meter_mapping,
                                        'Lecture Block': lecture_block_meter_mapping})
